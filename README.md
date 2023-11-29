@@ -1,6 +1,6 @@
 # Movie-matchmaker
 
-#First algorithm
+# First algorithm
 The first algorithm takes 5 movies that the user watched along with their respective ratings and, using a simple algorithm based on linear algebra, recommends 5 movies.
 
 ### Examples:
@@ -8,7 +8,7 @@ The first algorithm takes 5 movies that the user watched along with their respec
 ![image](https://github.com/correaluccio/movie-matchmaker/assets/81541552/ff87c770-fd6d-410c-a008-6af716577975)
 
 
-#Secon algorithm
+# Second algorithm
 The second algorithm is similar but relies on cosine similarity, where each movie is formatted as a vector and then the cosine between them is calculated.
 
 ### Examples:
